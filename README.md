@@ -5,16 +5,19 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/subliminalsublimity/DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/subliminalsublimity/DSA/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/subliminalsublimity/DSA/tree/master/0900-reordered-power-of-2) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/subliminalsublimity/DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/subliminalsublimity/DSA/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/subliminalsublimity/DSA/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/subliminalsublimity/DSA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/subliminalsublimity/DSA/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
