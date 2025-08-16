@@ -7,6 +7,7 @@
 | [0231-power-of-two](https://github.com/subliminalsublimity/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/subliminalsublimity/DSA/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/subliminalsublimity/DSA/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/subliminalsublimity/DSA/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/subliminalsublimity/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/subliminalsublimity/DSA/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
