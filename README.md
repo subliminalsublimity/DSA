@@ -6,6 +6,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/subliminalsublimity/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/subliminalsublimity/DSA/tree/master/0342-power-of-four) |
+| [0867-new-21-game](https://github.com/subliminalsublimity/DSA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/subliminalsublimity/DSA/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/subliminalsublimity/DSA/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
@@ -81,4 +82,16 @@
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/subliminalsublimity/DSA/tree/master/1448-maximum-69-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/subliminalsublimity/DSA/tree/master/0867-new-21-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/subliminalsublimity/DSA/tree/master/0867-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/subliminalsublimity/DSA/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
