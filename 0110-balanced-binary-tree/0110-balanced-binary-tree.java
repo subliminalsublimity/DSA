@@ -13,7 +13,6 @@
  *     }
  * }
  */
- import java.util.*;
 class Solution {
     public boolean isBalanced(TreeNode root) {
         if(root == null) return true;
@@ -22,11 +21,10 @@ class Solution {
         int rH = Depth(root.right);
 
         return Math.abs(lH - rH) <= 1 && isBalanced(root.left) && isBalanced(root.right);
-    
     }
 
-        public int Depth(TreeNode node){
-            if(node == null) return 0;
-            return 1 + Math.max(Depth(node.left) , Depth(node.right));
-        }
+    public int Depth (TreeNode node){
+        if(node == null) return 0;
+        return 1 + Math.max(Depth(node.left) , Depth(node.right));
+    }
 }
