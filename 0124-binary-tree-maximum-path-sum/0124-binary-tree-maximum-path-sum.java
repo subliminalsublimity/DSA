@@ -16,16 +16,21 @@
 class Solution {
     int maxi = Integer.MIN_VALUE;
     public int maxPathSum(TreeNode root) {
-        if(root == null ) return 0;
-         dfs(root);
-         return maxi;
+        if(root == null) return 0;
+
+        dfs(root);
+        return maxi;
+        
     }
 
     public int dfs(TreeNode node){
         if(node == null) return 0;
+
         int leftSum = Math.max(0 , dfs(node.left));
-        int rightSum = Math.max(0,dfs(node.right));
+        int rightSum = Math.max(0 , dfs(node.right));
+
         maxi = Math.max(maxi , leftSum + rightSum + node.val);
-        return Math.max(leftSum , rightSum) + node.val;
+
+        return Math.max(leftSum , rightSum ) + node.val;
     }
 }
