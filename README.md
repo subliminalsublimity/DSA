@@ -39,6 +39,7 @@
 ## Array
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/subliminalsublimity/DSA/tree/master/0498-diagonal-traverse) |
 | [2529-range-product-queries-of-powers](https://github.com/subliminalsublimity/DSA/tree/master/2529-range-product-queries-of-powers) |
 ## Prefix Sum
 |  |
@@ -115,4 +116,12 @@
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/subliminalsublimity/DSA/tree/master/0867-new-21-game) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/subliminalsublimity/DSA/tree/master/0498-diagonal-traverse) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/subliminalsublimity/DSA/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
