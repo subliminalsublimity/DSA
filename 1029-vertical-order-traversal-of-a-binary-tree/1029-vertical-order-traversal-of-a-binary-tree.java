@@ -16,8 +16,8 @@
 
 class Tuple {
     TreeNode node;
-    int row; // column index (x-axis)
-    int col; // row index (y-axis)
+    int row; //column - index
+    int col; //row - index
 
     public Tuple(TreeNode _node, int _row, int _col) {
         node = _node;
