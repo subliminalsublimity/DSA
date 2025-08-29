@@ -41,6 +41,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/subliminalsublimity/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0498-diagonal-traverse](https://github.com/subliminalsublimity/DSA/tree/master/0498-diagonal-traverse) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/subliminalsublimity/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2529-range-product-queries-of-powers](https://github.com/subliminalsublimity/DSA/tree/master/2529-range-product-queries-of-powers) |
@@ -142,4 +143,8 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/subliminalsublimity/DSA/tree/master/0498-diagonal-traverse) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/subliminalsublimity/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
