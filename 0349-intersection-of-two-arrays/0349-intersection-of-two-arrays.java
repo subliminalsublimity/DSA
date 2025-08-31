@@ -7,20 +7,24 @@ class Solution {
             st.add(nums1[i]);
         }
 
-          Set<Integer> resultSet = new HashSet<>();
-        for(int i=0 ; i<nums2.length ; i++){
-            if(st.contains(nums2[i])) {
+        Set<Integer> resultSet = new HashSet<>();
+        for(int i=0 ; i<nums2.length;i++){
+            if(st.contains(nums2[i])){
                 resultSet.add(nums2[i]);
             }
         }
 
-        int [] res = new int[resultSet.size()] ;
-        int idx = 0;
 
+        int [] res = new int[resultSet.size()];
+        int idx = 0;
         for(int num : resultSet){
             res[idx++] = num;
-        } 
+        }
 
-        return res;   
+        return res;
+
+
+       
+        
     }
 }
