@@ -4,7 +4,7 @@ class Solution {
         int n = nums.length;
 
         int j = -1;
-
+//2 - pointer approach
         for(int i=0 ; i<n ;i++){
             if(nums[i] == 0){
                 j = i;
