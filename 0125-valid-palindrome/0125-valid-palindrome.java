@@ -8,18 +8,9 @@ class Solution {
     }
 
     public boolean isPalindrome(String s) {
-        StringBuilder str = new StringBuilder();
+        String cleaned = s.toLowerCase().replaceAll("[^a-z0-9]", "");
 
-        for(char c : s.toCharArray()){
-            if (Character.isLetterOrDigit(c)){
-               str.append(Character.toLowerCase(c));
-            }   
-        }
-
-        String clean = str.toString();
-        return checkPalindrome(clean , 0 , clean.length());
-
-
+        return checkPalindrome(cleaned, 0, cleaned.length());
 
 
         
