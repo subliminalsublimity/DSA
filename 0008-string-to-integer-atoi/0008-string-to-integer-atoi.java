@@ -29,7 +29,7 @@ class Solution {
         }
 
         
-        int digit = s.charAt(index) - '0';
+        int digit = s.charAt(index) - '0'; 
         number = number * 10 + digit;
 
        
