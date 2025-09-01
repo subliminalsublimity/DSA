@@ -9,6 +9,7 @@
 | [0342-power-of-four](https://github.com/subliminalsublimity/DSA/tree/master/0342-power-of-four) |
 | [0867-new-21-game](https://github.com/subliminalsublimity/DSA/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/subliminalsublimity/DSA/tree/master/0900-reordered-power-of-2) |
+| [1013-fibonacci-number](https://github.com/subliminalsublimity/DSA/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/subliminalsublimity/DSA/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
 |  |
@@ -21,6 +22,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/subliminalsublimity/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/subliminalsublimity/DSA/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/subliminalsublimity/DSA/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/subliminalsublimity/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0867-new-21-game](https://github.com/subliminalsublimity/DSA/tree/master/0867-new-21-game) |
+| [1013-fibonacci-number](https://github.com/subliminalsublimity/DSA/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -162,4 +165,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/subliminalsublimity/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/subliminalsublimity/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
