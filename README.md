@@ -123,6 +123,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/subliminalsublimity/DSA/tree/master/0125-valid-palindrome) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/subliminalsublimity/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Greedy
 |  |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subliminalsublimity/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/subliminalsublimity/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/subliminalsublimity/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/subliminalsublimity/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/subliminalsublimity/DSA/tree/master/0349-intersection-of-two-arrays) |
