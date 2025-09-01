@@ -125,6 +125,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/subliminalsublimity/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/subliminalsublimity/DSA/tree/master/0125-valid-palindrome) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/subliminalsublimity/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Greedy
