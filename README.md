@@ -13,6 +13,7 @@
 | [1013-fibonacci-number](https://github.com/subliminalsublimity/DSA/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/subliminalsublimity/DSA/tree/master/1448-maximum-69-number) |
 | [2050-count-good-numbers](https://github.com/subliminalsublimity/DSA/tree/master/2050-count-good-numbers) |
+| [3830-find-closest-person](https://github.com/subliminalsublimity/DSA/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
