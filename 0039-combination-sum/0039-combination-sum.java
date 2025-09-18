@@ -4,7 +4,6 @@ class Solution {
         List<List<Integer>> ans = new ArrayList<>();
         allCombinations(0,candidates , target , ans , new ArrayList<>());
         return ans;
-        
     }
 
     private void allCombinations(int ind , int[]arr , int target , List<List<Integer>> ans , List<Integer> ds ){
