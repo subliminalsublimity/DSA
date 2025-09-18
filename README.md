@@ -54,6 +54,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subliminalsublimity/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/subliminalsublimity/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/subliminalsublimity/DSA/tree/master/0040-combination-sum-ii) |
 | [0189-rotate-array](https://github.com/subliminalsublimity/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/subliminalsublimity/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/subliminalsublimity/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -187,4 +188,5 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/subliminalsublimity/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/subliminalsublimity/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/subliminalsublimity/DSA/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
