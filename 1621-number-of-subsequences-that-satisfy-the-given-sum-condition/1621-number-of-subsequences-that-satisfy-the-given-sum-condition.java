@@ -15,7 +15,7 @@ class Solution {
         long ans = 0;
         while(l<=r){
             if( nums[l] +  nums[r] <= target){
-          ans = (ans + pow2[r - l]) % MOD;
+          ans = (ans + pow2[r - l]) % MOD;  //pow2[right-left]
                 l++; 
             }
             else r--;
