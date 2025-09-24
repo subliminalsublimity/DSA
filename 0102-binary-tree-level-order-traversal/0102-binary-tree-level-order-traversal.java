@@ -15,22 +15,22 @@
  */
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
-        Queue <TreeNode> que = new LinkedList<>();
-        List<List<Integer>> wrapList = new LinkedList<>();
+        List<List<Integer>> res = new ArrayList<>();
+        dfsHelper(root , 0 , res);
+        return res;
+    }
 
-        if(root == null) return wrapList;
-        que.offer(root);
+    public void dfsHelper(TreeNode node , int level , List<List<Integer>> res){
+        if(node == null) return ;
 
-        while(!que.isEmpty()){
-            int levelNum = que.size();
-        List<Integer> subList = new LinkedList<>();
-        for(int  i=0 ;i<levelNum;i++){
-            if(que.peek().left != null) que.offer(que.peek().left);
-            if(que.peek().right != null) que.offer(que.peek().right);
-            subList.add(que.poll().val);
+        if(res.size() == level){
+            res.add(new ArrayList<>());
         }
-        wrapList.add(subList);
-        }
-        return wrapList;
+
+        res.get(level).add(node.val);
+
+
+        dfsHelper(node.left , level  + 1 , res);
+        dfsHelper(node.right , level + 1 , res);
     }
 }
