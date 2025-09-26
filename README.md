@@ -20,6 +20,7 @@
 | [0078-subsets](https://github.com/subliminalsublimity/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/subliminalsublimity/DSA/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/subliminalsublimity/DSA/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/subliminalsublimity/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/subliminalsublimity/DSA/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/subliminalsublimity/DSA/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
@@ -62,6 +63,7 @@
 | [0090-subsets-ii](https://github.com/subliminalsublimity/DSA/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/subliminalsublimity/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/subliminalsublimity/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/subliminalsublimity/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/subliminalsublimity/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0498-diagonal-traverse](https://github.com/subliminalsublimity/DSA/tree/master/0498-diagonal-traverse) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/subliminalsublimity/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -178,11 +180,13 @@
 | [0125-valid-palindrome](https://github.com/subliminalsublimity/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/subliminalsublimity/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/subliminalsublimity/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/subliminalsublimity/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/subliminalsublimity/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/subliminalsublimity/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/subliminalsublimity/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/subliminalsublimity/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/subliminalsublimity/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Memoization
