@@ -36,12 +36,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/subliminalsublimity/DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subliminalsublimity/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/subliminalsublimity/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/subliminalsublimity/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0900-reordered-power-of-2](https://github.com/subliminalsublimity/DSA/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/subliminalsublimity/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/subliminalsublimity/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/subliminalsublimity/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0900-reordered-power-of-2](https://github.com/subliminalsublimity/DSA/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/subliminalsublimity/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -49,6 +51,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/subliminalsublimity/DSA/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/subliminalsublimity/DSA/tree/master/0900-reordered-power-of-2) |
 ## Enumeration
 |  |
@@ -64,6 +67,7 @@
 | [0074-search-a-2d-matrix](https://github.com/subliminalsublimity/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/subliminalsublimity/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/subliminalsublimity/DSA/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/subliminalsublimity/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/subliminalsublimity/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/subliminalsublimity/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/subliminalsublimity/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -207,4 +211,8 @@
 | [0040-combination-sum-ii](https://github.com/subliminalsublimity/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/subliminalsublimity/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/subliminalsublimity/DSA/tree/master/0090-subsets-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/subliminalsublimity/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
