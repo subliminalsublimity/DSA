@@ -61,6 +61,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subliminalsublimity/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/subliminalsublimity/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/subliminalsublimity/DSA/tree/master/0040-combination-sum-ii) |
+| [0074-search-a-2d-matrix](https://github.com/subliminalsublimity/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/subliminalsublimity/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/subliminalsublimity/DSA/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/subliminalsublimity/DSA/tree/master/0189-rotate-array) |
@@ -170,6 +171,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/subliminalsublimity/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/subliminalsublimity/DSA/tree/master/0498-diagonal-traverse) |
 ## Simulation
 |  |
@@ -188,6 +190,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/subliminalsublimity/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/subliminalsublimity/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/subliminalsublimity/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/subliminalsublimity/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
