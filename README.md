@@ -65,6 +65,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subliminalsublimity/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/subliminalsublimity/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/subliminalsublimity/DSA/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/subliminalsublimity/DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/subliminalsublimity/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/subliminalsublimity/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/subliminalsublimity/DSA/tree/master/0090-subsets-ii) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/subliminalsublimity/DSA/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/subliminalsublimity/DSA/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/subliminalsublimity/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0867-new-21-game](https://github.com/subliminalsublimity/DSA/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/subliminalsublimity/DSA/tree/master/1013-fibonacci-number) |
@@ -217,5 +219,6 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/subliminalsublimity/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/subliminalsublimity/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
