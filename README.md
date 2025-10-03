@@ -66,6 +66,7 @@
 | [0001-two-sum](https://github.com/subliminalsublimity/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/subliminalsublimity/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subliminalsublimity/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/subliminalsublimity/DSA/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/subliminalsublimity/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/subliminalsublimity/DSA/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/subliminalsublimity/DSA/tree/master/0053-maximum-subarray) |
@@ -196,6 +197,7 @@
 | ------- |
 | [0015-3sum](https://github.com/subliminalsublimity/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subliminalsublimity/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/subliminalsublimity/DSA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/subliminalsublimity/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/subliminalsublimity/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/subliminalsublimity/DSA/tree/master/0283-move-zeroes) |
