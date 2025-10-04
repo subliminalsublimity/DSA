@@ -5,18 +5,20 @@ class Solution {
 
         for(char c : s.toCharArray()){
             if(c == '('){
-                if(depth > 0){
-                    res.append(c);
+                if(depth>0){
+                res.append(c);
                 }
-                depth ++;
+                depth++;
             }
             else{
-                if(depth > 1){
-                    res.append(c);
-                }
-                depth --;
+            if(depth > 1){
+                res.append(c);
             }
+            depth --;
+        }
         }
         return res.toString();
+
+        
     }
 }
