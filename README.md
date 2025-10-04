@@ -139,6 +139,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/subliminalsublimity/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subliminalsublimity/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/subliminalsublimity/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/subliminalsublimity/DSA/tree/master/0125-valid-palindrome) |
+| [1078-remove-outermost-parentheses](https://github.com/subliminalsublimity/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/subliminalsublimity/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Greedy
 |  |
