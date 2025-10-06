@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/subliminalsublimity/DSA/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/subliminalsublimity/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/subliminalsublimity/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/subliminalsublimity/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/subliminalsublimity/DSA/tree/master/0342-power-of-four) |
@@ -173,6 +174,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/subliminalsublimity/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/subliminalsublimity/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/subliminalsublimity/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/subliminalsublimity/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0867-new-21-game](https://github.com/subliminalsublimity/DSA/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/subliminalsublimity/DSA/tree/master/1013-fibonacci-number) |
@@ -216,6 +218,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/subliminalsublimity/DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/subliminalsublimity/DSA/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
