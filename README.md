@@ -78,6 +78,7 @@
 | [0169-majority-element](https://github.com/subliminalsublimity/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/subliminalsublimity/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/subliminalsublimity/DSA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/subliminalsublimity/DSA/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/subliminalsublimity/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/subliminalsublimity/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/subliminalsublimity/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -178,6 +179,7 @@
 | [0070-climbing-stairs](https://github.com/subliminalsublimity/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/subliminalsublimity/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/subliminalsublimity/DSA/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/subliminalsublimity/DSA/tree/master/0213-house-robber-ii) |
 | [0867-new-21-game](https://github.com/subliminalsublimity/DSA/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/subliminalsublimity/DSA/tree/master/1013-fibonacci-number) |
 ## Sliding Window
