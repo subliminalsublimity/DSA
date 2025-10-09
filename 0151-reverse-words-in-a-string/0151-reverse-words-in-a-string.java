@@ -5,7 +5,7 @@ class Solution {
         String temp = "";
         String ans = "";
 
-        while(left <= right && s.charAt(left) == ' ') left ++;
+        while(left<= right && s.charAt(left)  == ' ') left ++;
         while(right <= left && s.charAt(right) == ' ') right --;
 
         while(left <= right){
@@ -14,8 +14,7 @@ class Solution {
             if(ch != ' '){
                 temp += ch;
             }
-
-            else if(ch == ' '){
+            else if (ch == ' '){
                 if(!temp.isEmpty()){
                     if(!ans.isEmpty()){
                         ans = temp + " " + ans;
@@ -23,17 +22,16 @@ class Solution {
                     else{
                         ans = temp;
                     }
-                temp = "";
+                    temp = "";
                 }
             }
-            left++;
-        }
+                left ++;
+            }
 
         if(!temp.isEmpty()){
             if(!ans.isEmpty()){
-                ans = temp + " " +  ans;
+                ans = temp + " " + ans;
             }
-
             else{
                 ans = temp;
             }
