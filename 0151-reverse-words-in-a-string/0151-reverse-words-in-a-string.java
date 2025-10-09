@@ -1,44 +1,32 @@
 class Solution {
     public String reverseWords(String s) {
-        int left = 0 ;
-        int right = s.length() - 1;
-        String temp ="";
-        String ans ="";
+        int n = s.length();
+        Stack<String> st = new Stack<>();
+        String str = "";
 
-        while(left <= right && s.charAt(left) == ' ') left ++;
-        while(right <= left && s.charAt(right) == ' ') right --;
-
-
-        while(left <= right){
-            char ch =s.charAt(left);
-
-            if(ch != ' '){
-                temp += ch ;
-            }
-
-            else if(ch == ' '){
-                if(!temp.isEmpty()){
-                    if(!ans.isEmpty()){
-                        ans = temp + " " +  ans;
-                    }
-                    else{
-                        ans = temp;
-                    }
-                    temp = "";
+        for(int i=0 ; i<n ; i++){
+            if(s.charAt(i) == ' '){
+                if(!str.isEmpty()){
+                    st.push(str);
+                    str = "";
                 }
             }
-            left ++ ;
-        }
-
-        if(!temp.isEmpty()){
-            if(!ans.isEmpty()){
-                ans = temp + " " + ans;
-            }
             else{
-                ans = temp;
+                    str += s.charAt(i);
             }
         }
 
+        if(!str.isEmpty()){
+            st.push(str);
+        }
+
+        String ans = "";
+        while(!st.isEmpty()){
+            ans += st.pop();
+            if(!st.isEmpty()){
+                ans = ans + " ";
+            }
+        }
         return ans;
     }
 }
