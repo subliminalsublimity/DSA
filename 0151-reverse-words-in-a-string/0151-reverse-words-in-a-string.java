@@ -1,6 +1,7 @@
 class Solution {
     public String reverseWords(String s) {
         int n = s.length();
+
         Stack<String> st = new Stack<>();
         String str = "";
 
@@ -12,7 +13,7 @@ class Solution {
                 }
             }
             else{
-                    str += s.charAt(i);
+                str += s.charAt(i);
             }
         }
 
@@ -20,7 +21,7 @@ class Solution {
             st.push(str);
         }
 
-        String ans = "";
+        String ans ="";
         while(!st.isEmpty()){
             ans += st.pop();
             if(!st.isEmpty()){
@@ -28,5 +29,6 @@ class Solution {
             }
         }
         return ans;
+        
     }
 }
