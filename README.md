@@ -39,6 +39,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subliminalsublimity/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/subliminalsublimity/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/subliminalsublimity/DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/subliminalsublimity/DSA/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/subliminalsublimity/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/subliminalsublimity/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0900-reordered-power-of-2](https://github.com/subliminalsublimity/DSA/tree/master/0900-reordered-power-of-2) |
@@ -165,6 +166,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subliminalsublimity/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/subliminalsublimity/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/subliminalsublimity/DSA/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/subliminalsublimity/DSA/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/subliminalsublimity/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/subliminalsublimity/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Greedy
