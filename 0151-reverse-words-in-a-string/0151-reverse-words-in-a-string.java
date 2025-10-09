@@ -11,25 +11,22 @@ class Solution {
                     str = "";
                 }
             }
-
             else{
-            str += s.charAt(i);
+                str += s.charAt(i);
             }
         }
 
+        if(!str.isEmpty()){
+            st.push(str);
+        }
 
-            if(!str.isEmpty()){
-                st.push(str);
+        String ans ="";
+        while(!st.isEmpty()){
+            ans += st.pop();
+            if(!st.isEmpty()){
+                ans  =  ans + " ";
             }
-
-            String ans = "";
-            while(!st.isEmpty()){
-                ans += st.pop();
-
-                if(!st.isEmpty()){
-                    ans +=" ";
-                }
-            }
-            return ans;
+        }
+        return ans;
     }
 }
