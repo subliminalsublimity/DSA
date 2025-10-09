@@ -167,6 +167,7 @@
 | [0022-generate-parentheses](https://github.com/subliminalsublimity/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/subliminalsublimity/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/subliminalsublimity/DSA/tree/master/0205-isomorphic-strings) |
+| [0812-rotate-string](https://github.com/subliminalsublimity/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/subliminalsublimity/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/subliminalsublimity/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Greedy
@@ -240,4 +241,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/subliminalsublimity/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/subliminalsublimity/DSA/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/subliminalsublimity/DSA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
