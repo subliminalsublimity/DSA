@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/subliminalsublimity/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/subliminalsublimity/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/subliminalsublimity/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/subliminalsublimity/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/subliminalsublimity/DSA/tree/master/0231-power-of-two) |
@@ -180,6 +181,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/subliminalsublimity/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/subliminalsublimity/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/subliminalsublimity/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/subliminalsublimity/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/subliminalsublimity/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/subliminalsublimity/DSA/tree/master/0198-house-robber) |
@@ -247,4 +249,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/subliminalsublimity/DSA/tree/master/0812-rotate-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/subliminalsublimity/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
