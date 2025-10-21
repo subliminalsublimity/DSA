@@ -1,17 +1,17 @@
 class Solution {
     public int climbStairs(int n) {
-      
-        if(n==1) return 1;
-        if(n==2) return 2;
-        int prev = 2 , prev2 = 1;
-        int curr = 0;
-
-        for(int i=3 ;i<= n ; i++){
-            curr = prev + prev2;
-            prev2 = prev;
-            prev = curr;
-
-        }
-        return curr; 
+        int[] dp = new int [n+1];
+        Arrays.fill(dp , -1);
+        return climbStairs(dp , n);
     }
+
+    private int climbStairs(int [] dp , int n){
+        if(n == 1) return 1;
+        if(n == 2) return 2;
+
+        if(dp[n] != -1) return dp[n];
+        dp[n]= climbStairs(dp , n-1) + climbStairs(dp , n-2);
+        return dp[n];
+    }
+
 }
