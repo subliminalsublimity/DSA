@@ -19,24 +19,25 @@ class Solution {
         Stack<TreeNode> st = new Stack<>();
         TreeNode curr = root , lastVis = null;
 
-        while(curr != null ||!st.isEmpty()){
+        while(curr != null || !st.isEmpty()){
             if(curr != null){
-                st.push(curr);
-                curr = curr.left;
+            st.push(curr);
+            curr = curr.left;
+            }
+
+        else{
+            
+            if(st.peek().right != null && lastVis != st.peek().right){
+                curr = st.peek().right; 
             }
 
             else{
-                if(st.peek().right != null && lastVis != st.peek().right){
-                    curr = st.peek().right;
-                }
-                else{
-                   TreeNode node = st.pop();
-                    postorder.add(node.val);
-                    lastVis = node;
-                }
+               TreeNode node = st.pop();
+               postorder.add(node.val);
+               lastVis = node;
             }
         }
+        }
         return postorder;
-
     }
 }
