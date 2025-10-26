@@ -14,25 +14,54 @@
  * }
  */
 class Solution {
-    public boolean findTarget(TreeNode root, int k) {
-        List<Integer> inorder = new ArrayList<>();
-        inorderTraversal(root , inorder);
 
+      public class BSTIterator{
+        private Stack<TreeNode> st = new Stack<>();
+        boolean reverse = true;
 
-        int left = 0 , right = inorder.size() - 1;
-        while(left < right){
-            int sum = inorder.get(left) + inorder.get(right);
-            if(sum == k) return true;
-            else if(sum < k) left++;
-            else right --;
+        public BSTIterator(TreeNode root , boolean isReverse){
+            reverse = isReverse;
+            pushAll(root);
         }
-        return false;
+
+        public boolean hasNext(){
+            return !st.isEmpty();
+        }
+
+        public int next(){
+            TreeNode temp = st.pop();
+            if(reverse == false) pushAll(temp.right);
+            else pushAll(temp.left);
+            return temp.val;
+        }
+
+        private void pushAll(TreeNode node){
+            while(node != null){
+                st.push(node);
+                if(reverse == true){
+                    node = node.right;
+                }
+                else{
+                    node = node.left;
+                }
+            }
+        }
+      }
+        public boolean findTarget(TreeNode root, int k) {
+            if(root == null) return false;
+
+            BSTIterator l = new BSTIterator(root , false);
+            BSTIterator r = new BSTIterator(root , true);
+
+            int i = l.next();
+            int j = r.next();
+
+            while(i<j){
+                if(i + j == k) return true;
+                else if (i + j < k) i = l.next();
+                else j = r.next();
+            }
+            return false;
+        
     }
-
-    public void inorderTraversal(TreeNode root , List<Integer> inorder){
-        if(root == null) return ;
-        inorderTraversal(root.left,inorder);
-        inorder.add(root.val);
-        inorderTraversal(root.right , inorder);
-        }
 }
