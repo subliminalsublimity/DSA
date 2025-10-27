@@ -87,6 +87,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/subliminalsublimity/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0498-diagonal-traverse](https://github.com/subliminalsublimity/DSA/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/subliminalsublimity/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/subliminalsublimity/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/subliminalsublimity/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2529-range-product-queries-of-powers](https://github.com/subliminalsublimity/DSA/tree/master/2529-range-product-queries-of-powers) |
@@ -120,6 +121,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/subliminalsublimity/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/subliminalsublimity/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/subliminalsublimity/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/subliminalsublimity/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/subliminalsublimity/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/subliminalsublimity/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
 | ------- |
@@ -163,6 +166,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/subliminalsublimity/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/subliminalsublimity/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Depth-First Search
 |  |
@@ -288,6 +292,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/subliminalsublimity/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/subliminalsublimity/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/subliminalsublimity/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -296,4 +301,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/subliminalsublimity/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
