@@ -14,39 +14,33 @@
  * }
  */
 class Solution {
+    int preIndex = 0;
     public TreeNode bstFromPreorder(int[] preorder) {
-        if(preorder == null || preorder.length ==0) return null;
+        int n = preorder.length;
+        int[] inorder = preorder.clone();
+        Arrays.sort(inorder);
 
-        TreeNode root = new TreeNode(preorder[0]);
+        return buildTree(preorder , inorder, 0 , n-1 );
+    }
 
-        for(int i=1 ; i < preorder.length; i++){
-            insert(root , preorder[i]);
-        }
+    public TreeNode buildTree(int[] preorder , int [] inorder , int start , int end){
+        if(start > end) return null;
+
+        int rootVal = preorder[preIndex ++];
+        TreeNode root = new TreeNode(rootVal);
+
+        int mid = findIndex(inorder , rootVal , start , end);
+
+        root.left = buildTree(preorder , inorder , start ,mid - 1);
+        root.right = buildTree(preorder , inorder , mid + 1, end);
 
         return root;
     }
 
-    public void insert(TreeNode root, int val){
-        while(true){
-            if(val < root.val){
-                if(root.left == null){
-                    root.left = new TreeNode(val);
-                    break;
-                }
-                else{
-                    root = root.left;
-                }
-            }
-
-            else{
-                if(root.right == null){
-                    root.right = new TreeNode(val);
-                    break;
-                }
-                else{
-                    root = root.right;
-                }
-            }
+    public int findIndex(int [] inorder , int val , int start , int end){
+        for(int i = start ; i<=end ; i++){
+            if(inorder[i] == val) return i;
         }
+        return -1;
     }
 }
