@@ -313,4 +313,8 @@
 |  |
 | ------- |
 | [1073-number-of-enclaves](https://github.com/subliminalsublimity/DSA/tree/master/1073-number-of-enclaves) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/subliminalsublimity/DSA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
