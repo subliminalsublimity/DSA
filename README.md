@@ -88,6 +88,7 @@
 | [0498-diagonal-traverse](https://github.com/subliminalsublimity/DSA/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/subliminalsublimity/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1073-number-of-enclaves](https://github.com/subliminalsublimity/DSA/tree/master/1073-number-of-enclaves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/subliminalsublimity/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/subliminalsublimity/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2529-range-product-queries-of-powers](https://github.com/subliminalsublimity/DSA/tree/master/2529-range-product-queries-of-powers) |
@@ -133,6 +134,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/subliminalsublimity/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/subliminalsublimity/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/subliminalsublimity/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/subliminalsublimity/DSA/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/subliminalsublimity/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/subliminalsublimity/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/subliminalsublimity/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/subliminalsublimity/DSA/tree/master/1073-number-of-enclaves) |
 ## String
 |  |
 | ------- |
@@ -229,6 +232,7 @@
 | [0073-set-matrix-zeroes](https://github.com/subliminalsublimity/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/subliminalsublimity/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/subliminalsublimity/DSA/tree/master/0498-diagonal-traverse) |
+| [1073-number-of-enclaves](https://github.com/subliminalsublimity/DSA/tree/master/1073-number-of-enclaves) |
 ## Simulation
 |  |
 | ------- |
@@ -305,4 +309,8 @@
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/subliminalsublimity/DSA/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
