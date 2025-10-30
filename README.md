@@ -316,6 +316,7 @@
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/subliminalsublimity/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/subliminalsublimity/DSA/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/subliminalsublimity/DSA/tree/master/0595-big-countries) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/subliminalsublimity/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
