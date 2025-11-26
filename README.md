@@ -39,6 +39,7 @@
 | [0001-two-sum](https://github.com/subliminalsublimity/DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/subliminalsublimity/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/subliminalsublimity/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/subliminalsublimity/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/subliminalsublimity/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/subliminalsublimity/DSA/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/subliminalsublimity/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -78,6 +79,7 @@
 | [0074-search-a-2d-matrix](https://github.com/subliminalsublimity/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/subliminalsublimity/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/subliminalsublimity/DSA/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/subliminalsublimity/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/subliminalsublimity/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/subliminalsublimity/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/subliminalsublimity/DSA/tree/master/0198-house-robber) |
@@ -320,6 +322,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/subliminalsublimity/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/subliminalsublimity/DSA/tree/master/0200-number-of-islands) |
 | [1073-number-of-enclaves](https://github.com/subliminalsublimity/DSA/tree/master/1073-number-of-enclaves) |
 ## Database
