@@ -331,6 +331,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/subliminalsublimity/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/subliminalsublimity/DSA/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/subliminalsublimity/DSA/tree/master/0595-big-countries) |
+| [1068-product-sales-analysis-i](https://github.com/subliminalsublimity/DSA/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/subliminalsublimity/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/subliminalsublimity/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/subliminalsublimity/DSA/tree/master/1683-invalid-tweets) |
