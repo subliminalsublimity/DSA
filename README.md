@@ -43,6 +43,7 @@
 | [0169-majority-element](https://github.com/subliminalsublimity/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/subliminalsublimity/DSA/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/subliminalsublimity/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/subliminalsublimity/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/subliminalsublimity/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/subliminalsublimity/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0900-reordered-power-of-2](https://github.com/subliminalsublimity/DSA/tree/master/0900-reordered-power-of-2) |
@@ -88,6 +89,7 @@
 | [0283-move-zeroes](https://github.com/subliminalsublimity/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/subliminalsublimity/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/subliminalsublimity/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/subliminalsublimity/DSA/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/subliminalsublimity/DSA/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/subliminalsublimity/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -174,6 +176,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/subliminalsublimity/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/subliminalsublimity/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0496-next-greater-element-i](https://github.com/subliminalsublimity/DSA/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/subliminalsublimity/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Depth-First Search
@@ -318,6 +321,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/subliminalsublimity/DSA/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Union Find
 |  |
