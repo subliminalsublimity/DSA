@@ -93,6 +93,7 @@
 | [0496-next-greater-element-i](https://github.com/subliminalsublimity/DSA/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/subliminalsublimity/DSA/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/subliminalsublimity/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/subliminalsublimity/DSA/tree/master/0735-asteroid-collision) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/subliminalsublimity/DSA/tree/master/1073-number-of-enclaves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/subliminalsublimity/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -179,6 +180,7 @@
 | [0155-min-stack](https://github.com/subliminalsublimity/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/subliminalsublimity/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/subliminalsublimity/DSA/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/subliminalsublimity/DSA/tree/master/0735-asteroid-collision) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/subliminalsublimity/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Depth-First Search
@@ -252,6 +254,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/subliminalsublimity/DSA/tree/master/0498-diagonal-traverse) |
+| [0735-asteroid-collision](https://github.com/subliminalsublimity/DSA/tree/master/0735-asteroid-collision) |
 ## Two Pointers
 |  |
 | ------- |
