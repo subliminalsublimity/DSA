@@ -1,28 +1,31 @@
 class Solution {
-    public static int [] prefixMax (int [] height){
-        int [] prefix = new int [height.length];
-        prefix[0] = height[0];
-        for(int i=1 ; i<prefix.length ; i++){
-            prefix[i] = Math.max(prefix[i-1], height[i]);
-        }
-        return prefix;
-    }
-
-    public static int [] suffixMax(int [] height){
-        int [] suffix = new int [height.length];
-        suffix[height.length - 1] = height[height.length - 1];
-        for(int i=height.length - 2 ; i >= 0 ; i--){
-            suffix[i] = Math.max(suffix[i+1],height[i]);
-        }
-        return suffix;
-    }
     public int trap(int[] height) {
         int total = 0 ;
-        int [] leftMax = prefixMax(height);
-        int [] rightMax = suffixMax(height);
-        for(int i=0 ; i<height.length ;i++){
-            total += Math.min(leftMax[i] , rightMax[i]) - height[i];
+        int lMax = 0 , rMax = 0;
+        int l = 0, r = height.length - 1;
+
+        while(l < r){
+            if(height[l] <= height[r]){
+                if(lMax > height[l]){
+                    total += lMax - height[l];
+                }
+                else{
+                    lMax = height[l];
+                }
+                l ++;
+            }
+
+            else{
+                if(rMax > height[r]){
+                    total += rMax - height[r];
+                }
+                else{
+                    rMax = height[r];
+                }
+                r --;
+            }
         }
+
         return total ;
     }
 }
