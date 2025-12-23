@@ -75,6 +75,7 @@
 | [0031-next-permutation](https://github.com/subliminalsublimity/DSA/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/subliminalsublimity/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/subliminalsublimity/DSA/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/subliminalsublimity/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/subliminalsublimity/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/subliminalsublimity/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/subliminalsublimity/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/subliminalsublimity/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/subliminalsublimity/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -221,6 +223,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/subliminalsublimity/DSA/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/subliminalsublimity/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/subliminalsublimity/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/subliminalsublimity/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/subliminalsublimity/DSA/tree/master/0070-climbing-stairs) |
@@ -255,6 +258,7 @@
 | [0015-3sum](https://github.com/subliminalsublimity/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subliminalsublimity/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/subliminalsublimity/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/subliminalsublimity/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/subliminalsublimity/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/subliminalsublimity/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/subliminalsublimity/DSA/tree/master/0189-rotate-array) |
@@ -321,6 +325,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/subliminalsublimity/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/subliminalsublimity/DSA/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/subliminalsublimity/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Union Find
